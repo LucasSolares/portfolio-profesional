@@ -2,7 +2,7 @@ module.exports = {
   defaultTitle: 'Lucas Solares - Developer',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Lucas Solares',
-  url: 'https://portfolio.smakosh.com',
+  url: 'https://portfolio-lucassolares.netlify.app/',
   legalName: 'Lucas Guillermo Solares Figueroa',
   defaultDescription: 'Soy un desarrollador Web y Mobile, apasionado por aprender nuevas tecnologías.',
   socialLinks: {
