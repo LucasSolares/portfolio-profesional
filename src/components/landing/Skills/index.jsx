@@ -17,7 +17,7 @@ export const Skills = () => {
         <Details theme={theme}>
           <h1>¡Más acerca de mi!</h1>
           <p>
-            He participado en proyectos de gran esacala que se orientan a un entorno Web & Mobile desarrollando
+            He participado en proyectos de gran escala que se orientan a un entorno Web & Mobile desarrollando
             habilidades como React, Gatsby & Flutter ademas de entornos backend como Firebase, Express & Flask.
           </p>
           <Button as={AnchorLink} href="#contact">
