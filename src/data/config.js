@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Lucas Solares - Developer',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-  author: 'John Doe',
+  author: 'Lucas Solares',
   url: 'https://portfolio.smakosh.com',
-  legalName: 'John Doe',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  legalName: 'Lucas Guillermo Solares Figueroa',
+  defaultDescription: 'Soy un desarrollador Web y Mobile, apasionado por aprender nuevas tecnologías.',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/smakosh',
@@ -21,14 +21,14 @@ module.exports = {
     twitter: '@smakosh',
   },
   address: {
-    city: 'City',
-    region: 'Region',
-    country: 'Country',
-    zipCode: 'ZipCode',
+    city: 'Guatemala',
+    region: 'Centroamerica',
+    country: 'Guatemala',
+    zipCode: '01018',
   },
   contact: {
-    email: 'email',
-    phone: 'phone number',
+    email: 'solareslucas.figueroa@gmail.com',
+    phone: '(+502) 5956-4187',
   },
-  foundingDate: '2018',
+  foundingDate: '2020',
 };

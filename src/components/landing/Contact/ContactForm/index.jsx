@@ -56,7 +56,7 @@ export default () => (
             name="name"
             component="input"
             aria-label="name"
-            placeholder="Full name*"
+            placeholder="Nombre Completo*"
             error={touched.name && errors.name}
           />
           <ErrorMessage component={Error} name="name" />
@@ -69,7 +69,7 @@ export default () => (
             as={FastField}
             type="email"
             name="email"
-            placeholder="Email*"
+            placeholder="Correo Electronico*"
             error={touched.email && errors.email}
           />
           <ErrorMessage component={Error} name="email" />
@@ -83,7 +83,7 @@ export default () => (
             rows="8"
             type="text"
             name="message"
-            placeholder="Message*"
+            placeholder="Mensaje*"
             error={touched.message && errors.message}
           />
           <ErrorMessage component={Error} name="message" />
@@ -102,13 +102,13 @@ export default () => (
         {values.success && (
           <InputField>
             <Center>
-              <h4>Your message has been successfully sent, I will get back to you ASAP!</h4>
+              <h4>Tu mensaje ha sido enviado. ¡Te respondere lo antes posible!</h4>
             </Center>
           </InputField>
         )}
         <Center>
           <Button secondary type="submit" disabled={isSubmitting}>
-            Submit
+            Enviar
           </Button>
         </Center>
       </Form>
