@@ -6,12 +6,7 @@ module.exports = {
   legalName: 'Lucas Guillermo Solares Figueroa',
   defaultDescription: 'Soy un desarrollador Web y Mobile, apasionado por aprender nuevas tecnologías.',
   socialLinks: {
-    twitter: 'http://www.twitter.com/smakosh',
-    github: 'https://github.com/smakosh',
-    linkedin: 'https://www.linkedin.com/in/ismail-ghallou-630149122/',
-    instagram: 'https://instagram.com/smakosh19',
-    youtube: 'https://www.youtube.com/user/smakoshthegamer',
-    google: 'https://plus.google.com/u/0/+IsmailSmakoshGhallou',
+    github: 'https://github.com/LucasSolares',
   },
   googleAnalyticsID: 'UA-88875900-4',
   themeColor: '#6b63ff',
